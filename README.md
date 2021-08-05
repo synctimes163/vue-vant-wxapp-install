@@ -1,0 +1,1 @@
+# vue-vant-wxapp-install
